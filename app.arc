@@ -4,6 +4,8 @@ testfuns
 @plugins
 eighteen
 
+@ws
+
 @events
 ping
 
@@ -11,6 +13,7 @@ ping
 pong
 
 @http
+get /asap
 get /
 get /one/:scopeID/:dataID
 post /ping

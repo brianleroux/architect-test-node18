@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@architect/asap": "^5.0.0-RC.0"
+  }
+}
