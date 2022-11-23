@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "dependencies": {
+    "@architect/functions": "^5.2.4-RC.0"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^5.3.6-RC.0"
+  }
+}
