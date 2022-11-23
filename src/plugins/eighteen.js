@@ -6,6 +6,7 @@ module.exports = {
           cloudformation.Resources[r].Properties.Runtime = "nodejs18.x"
         }
       }
+      console.log(JSON.stringify(cloudformation, null, 2))
       return cloudformation
     }
   } 
