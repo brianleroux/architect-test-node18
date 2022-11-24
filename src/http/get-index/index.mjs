@@ -20,7 +20,9 @@ async function fn (req) {
       <a href=/>scan</a> | 
       <a href=/?scopeID=ping>pings</a> | 
       <a href=/?scopeID=pong>pongs</a> | 
-      <a href=/asap>asap</a>
+      <a href=/asap>asap</a> | 
+      <a href=/chat>chat</a> | 
+      <a href=/data>data</a>
 
       <h1>${ process.version }</h1>
       <form method=post>
